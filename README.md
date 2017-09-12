@@ -1,2 +1,1 @@
-# asystwebsite
-A Website for ASYST
+This is the official website of ASYST!
